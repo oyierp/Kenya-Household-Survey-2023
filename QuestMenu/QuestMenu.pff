@@ -1,0 +1,22 @@
+﻿[Run Information]
+Version=CSPro 7.7
+AppType=Entry
+Description=2023 KHHEUS - Live 1
+
+[DataEntryInit]
+StartMode=Add
+
+[Files]
+Application=.\QuestMenu.ent
+InputData=|type=None
+
+[ExternalFiles]
+KHHEUSDEVICES_DICT=|type=None
+KHHEUSPROGRESS_DICT=|type=None
+KHHEUSSAMPLE_DICT=..\LookUp\KHHEUSSample.csdb
+KHHEUSUSERS_DICT=..\LookUp\KHHEUSUsers.csdb
+KHHEUS_DICT=..\Data\KHHEUSFileData.csdb
+
+[UserFiles]
+PFF_File=
+PFF_RAReport=

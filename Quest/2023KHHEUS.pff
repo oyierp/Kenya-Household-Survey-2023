@@ -1,0 +1,11 @@
+﻿[Run Information]
+Version=CSPro 7.7
+AppType=Entry
+
+[Files]
+Application=.\2023KHHEUS.ent
+InputData=..\Data\KHHEUSFileData.csdb
+
+[ExternalFiles]
+KHHEUSPROGRESS_DICT=|type=None
+KHHEUSSAMPLE_DICT=..\LookUp\KHHEUSSample.csdb
